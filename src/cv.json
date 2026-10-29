@@ -1,0 +1,162 @@
+{
+  "name": "Alexander Tukaylo",
+  "role": "Senior Frontend Developer",
+  "tagline": "Frontend Engineer · React / TypeScript",
+  "summary": "Frontend developer with 7+ years of commercial experience building and maintaining production applications. I work across feature delivery, frontend architecture, API integration, and code reviews, with experience in SaaS, AI-driven products, cybersecurity, and real-time platforms.",
+  "location": "Grodno, Belarus · Remote",
+  "email": "alextukaylo@gmail.com",
+  "telegram": "https://t.me/AlexTukaylo",
+  "strengths": [
+    {
+      "title": "Feature ownership",
+      "details": "From requirements and technical decisions through implementation."
+    },
+    {
+      "title": "Complex products",
+      "details": "SaaS, compliance, AI, Web3, and real-time interfaces."
+    },
+    {
+      "title": "Engineering quality",
+      "details": "Code reviews, testing, maintainable architecture, and collaboration."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer / Frontend Developer",
+      "company": "JAYDEVS",
+      "period": "Mar 2021 – Present",
+      "subtitle": "Grodno, Belarus · Client and product development",
+      "bullets": [
+        "Develop and maintain production web applications using React, TypeScript, and modern frontend tooling , including AI-powered and security/compliance SaaS platforms.",
+        "Take ownership of frontend features, contributing to technical and architectural decisions, implementation, and integration with REST APIs and third-party services.",
+        "Review pull requests, write and maintain tests, investigate issues, and improve code quality across ongoing product development.",
+        "Collaborate directly with clients, designers, backend engineers, and the development team to clarify requirements and deliver functionality."
+      ]
+    },
+    {
+      "role": "Web Developer",
+      "company": "Nash Bely Dom",
+      "period": "Sep 2019 – Mar 2021",
+      "subtitle": "Grodno, Belarus",
+      "bullets": [
+        "Built and maintained websites and web applications with JavaScript, React, PHP, WordPress, and integrations.",
+        "Implemented new functionality, improved existing code, tested changes, and worked with clients and teammates."
+      ]
+    },
+    {
+      "role": "Web Developer",
+      "company": "IT Companies / Freelance",
+      "period": "Jun 2017 – Sep 2019",
+      "subtitle": "Grodno, Belarus",
+      "bullets": [
+        "Delivered website and web-application features using JavaScript, React, HTML/CSS, PHP, WordPress, and MODX."
+      ]
+    }
+  ],
+  "featuredProjects": [
+    {
+      "title": "Security & Compliance SaaS",
+      "period": "Jan 2023 – Present",
+      "description": "Cloud platform for managing information-security and regulatory-compliance programs. Developed and maintained frontend functionality, supported testing, and collaborated on product delivery.",
+      "stack": "React · React Context · TypeScript · Vite · Jest · Material UI"
+    },
+    {
+      "title": "ComplianceAI",
+      "period": "Jun 2024 – 2025",
+      "description": "AI-assisted document compliance application. Implemented frontend features and interface updates for workflows that analyze documents and identify inconsistencies.",
+      "stack": "React · TypeScript · Zustand · Tailwind CSS"
+    },
+    {
+      "title": "Web3 Live Streaming Platform",
+      "period": "May 2022 – Jan 2023",
+      "description": "Streaming and social platform featuring live video, media feeds, stories, and chat. Worked on frontend features, service integrations, testing, and pull-request reviews.",
+      "stack": "React · TypeScript · Redux · WebSocket · Agora · Firebase"
+    },
+    {
+      "title": "3D Furniture Visualization",
+      "period": "Nov 2021 – Apr 2022",
+      "description": "Web application for viewing 3D furniture models inside user-defined interiors. Implemented and maintained frontend functionality for the visualization experience.",
+      "stack": "React · Next.js · JavaScript · Express · MongoDB · WordPress"
+    },
+    {
+      "title": "ML Logistics Optimization",
+      "period": "Jul 2021 – Sep 2021",
+      "description": "Route-optimization application using machine learning. Developed features, estimated work, wrote unit tests, and fixed issues.",
+      "stack": "React · Vite · Next.js · TypeScript · FastAPI · Docker · Azure"
+    },
+    {
+      "title": "React & WordPress Integrations",
+      "period": "Jun 2023 – 2025",
+      "description": "Client websites and small web applications combining React interfaces with WordPress and its REST API, including both standalone modules and CMS-based solutions.",
+      "stack": "React · TypeScript · WordPress REST API · PHP · Tailwind CSS"
+    }
+  ],
+  "additionalProjects": [
+    {
+      "title": "Housing Marketplace & SaaS Aggregator",
+      "period": "Oct 2021 – Nov 2021",
+      "description": "Marketplace connecting users with housing operators through a white-label SaaS platform and analytics. Developed and optimized frontend features.",
+      "stack": "React · Next.js · TypeScript · Axios · Formik · Yup · Google Maps · AWS"
+    },
+    {
+      "title": "Insurance Comparison Website (Germany)",
+      "period": "Sep 2021 – Nov 2021",
+      "description": "Website helping customers compare insurance plans and memberships. Built frontend functionality with Next.js, optimized existing code, and fixed issues.",
+      "stack": "React · Next.js · Drupal · Gutenberg"
+    },
+    {
+      "title": "Online Pharmacy & Ordering Website",
+      "period": "Apr 2020 – Jun 2021",
+      "description": "Website for ordering medication. Implemented frontend functionality and integrated WordPress and WooCommerce.",
+      "stack": "JavaScript · React · PHP · WordPress · WooCommerce"
+    },
+    {
+      "title": "Online Casting Platform",
+      "period": "Sep 2019 – Apr 2020",
+      "description": "Online service connecting candidates and employers, with profile management, resumes, casting discovery, and candidate selection. Developed features, tests, and optimizations.",
+      "stack": "JavaScript · Vue.js · MODX · WordPress · HTML · CSS"
+    },
+    {
+      "title": "Electronics Repair Business Website",
+      "period": "Jan 2019 – Sep 2019",
+      "description": "Website for a local mobile-device and computer repair company. Implemented functionality, optimized code, and resolved issues.",
+      "stack": "JavaScript · HTML · CSS · MODX"
+    },
+    {
+      "title": "GDPR Consent Banner Application",
+      "period": "Oct 2017 – Feb 2018",
+      "description": "Application for creating and managing GDPR banners on websites. Developed the frontend, implemented functionality, and optimized code.",
+      "stack": "JavaScript · React · SCSS · Git"
+    },
+    {
+      "title": "Early Web Application & CMS Development",
+      "period": "Oct 2017 – Feb 2018",
+      "description": "Web applications and CMS modules, including tested module releases and relational database design work.",
+      "stack": "JavaScript · PHP · WordPress · WooCommerce · MySQL · Git"
+    }
+  ],
+  "skills": [
+    {
+      "label": "Core frontend",
+      "items": "JavaScript (ES6+), TypeScript, React, Next.js, Redux, Zustand, HTML5, CSS3, SCSS, Tailwind CSS, Material UI"
+    },
+    {
+      "label": "Engineering",
+      "items": "Frontend architecture, feature ownership, REST API integration, WebSocket, Jest, unit testing, code review, performance optimization"
+    },
+    {
+      "label": "Tooling & cloud",
+      "items": "Git, Vite, Webpack, AWS, Azure, Docker, Jira, Claude Code, OpenAI Codex"
+    },
+    {
+      "label": "CMS & backend",
+      "items": "WordPress, WordPress REST API, PHP, MySQL, MongoDB, MODX, Drupal"
+    }
+  ],
+  "education": {
+    "university": "Yanka Kupala State University of Grodno",
+    "degree": "Bachelor's degree · Information Systems and Technologies (in Economics)",
+    "qualification": "Software Engineer-Economist"
+  },
+  "languages": "English (B2) · Russian (native)"
+}
